@@ -1,0 +1,8 @@
+{
+  "name": "WaiterApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jotta11/WaiterApp.git",
+  "author": "Jotta11 <93175796+Jotta11@users.noreply.github.com>",
+  "license": "MIT"
+}
